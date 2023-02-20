@@ -1,0 +1,8 @@
+juin 19, 2022 11:06:19 PM main.TestMain main
+INFO: pokedex : Initialized
+juin 19, 2022 11:06:20 PM main.TestMain main
+INFO: Species : Initialized
+juin 19, 2022 11:06:20 PM main.TestMain main
+INFO: Capacities : Initialized
+juin 19, 2022 11:06:42 PM main.TestMain main
+INFO: Pokemon IA : capacities learned
